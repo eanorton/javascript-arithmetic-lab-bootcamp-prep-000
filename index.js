@@ -23,3 +23,7 @@ function dec(n) {
 function makeInt(n) {
   return 
 }
+
+function makeInt(n) {
+  return 
+}
